@@ -1,5 +1,5 @@
 ## liens utiles
-[METAUX LOURDS](https://engineering.stanford.edu/magazine/article/new-approach-cleaning-heavy-metals-out-soil)
+[METAUX LOURDS](https://engineering.stanford.edu/magazine/article/new-approach-cleaning-heavy-metals-out-soil)\
 GAZ ; POLLUANTS ORGANIQUES ; METAUX LOURDS : [def]: https://fr.wikipedia.org/wiki/D%C3%A9pollution_des_sols
 ZINC : [def]: https://reporterre.net/Pour-depolluer-sols-et-eaux-une-solution-efficace-et-ecolo-les-plantes
 NETTOYAGE SOL PAR PLANTES : [def]: https://amphisciences.ouest-france.fr/2020/09/10/le-nettoyage-des-sols-par-les-plantes/
