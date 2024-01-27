@@ -1,4 +1,4 @@
-### notre Méthodes
+### Notre méthode
 
 Pour relever le défi des sols contaminés par des métaux lourds, notre projet Green Mine adopte une approche innovante et efficace. Nous utilisons une technique de lavage acide spécialement conçue pour cibler et extraire les métaux lourds chargés positivement. Cette méthode repose sur l'emploi d'une solution acide qui, en interagissant avec les contaminants, les libère du sol tout en préservant l'intégrité de l'écosystème environnant.
 
